@@ -15,4 +15,6 @@ You'll need two things to import a base:
 
 ## Instructions
 1. Download a base template (.nmsbase).  Open the file in Notepad, select all text with CTRL-A, and copy all text with CTRL-C.
-2. Check the readme for the NMSbase file.  It will provide guidance on where the starting base computer must be located.
+  ![Select and copy](https://github.com/weasel-nms/NMSbase--Instructions/blob/main/images/nmsbase-1-select.jpg)
+3. Check the readme for the NMSbase file.  It will provide guidance on where the starting base computer must be located.
+  ![Base computer details](https://raw.githubusercontent.com/weasel-nms/NMSbase--Instructions/main/images/nmsbase-2-location.jpg)
