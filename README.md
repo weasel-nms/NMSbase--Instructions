@@ -11,6 +11,8 @@ If any of these restrictions apply to you, you still deserve nice-looking No Man
 ## Setting up
 You'll need two things to import a base:
 1. A downloaded base template file (.nmsbase)
-2. A No Man's Sky save editor with JSON editing abilities.  Both [NMSSE](https://github.com/goatfungus/NMSSaveEditor) and [NomNom](https://github.com/cengelha/NomNom) work for this purpose, but NMSSE's JSON editor is more fully featured at the time of writing.
+2. A No Man's Sky save editor with JSON editing abilities.  Both [NMSSE](https://github.com/goatfungus/NMSSaveEditor) and [NomNom](https://github.com/cengelha/NomNom) work for this purpose, but NMSSE's JSON editor is more fully featured at the time of writing, and will be used in these instructions.
 
 ## Instructions
+1. Download a base template (.nmsbase).  Open the file in Notepad, select all text with CTRL-A, and copy all text with CTRL-C.
+2. Check the readme for the NMSbase file.  It will provide guidance on where the starting base computer must be located.
